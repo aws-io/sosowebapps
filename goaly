@@ -1,35 +1,42 @@
-Overview and Key Achievements
-Over the past year, I have focused on strengthening my skills and impact as a DevOps engineer, with an emphasis on security, container orchestration, API management, and observability through Elasticsearch. A significant portion of my contributions involved supporting internal clients by integrating their logs into our Elasticsearch environment, ensuring enhanced visibility and operational efficiency.
-Despite a three-month paternity leave beginning in August, I successfully delivered critical projects and continued to build my expertise, notably earning the Microsoft Cybersecurity Architect (SC-100) certification during my leave to further expand my cloud security capabilities.
+Accomplishments in 2024
+Goals Achieved:
+1.	Elastic Logs Support
+Actively managed and resolved ServiceNow tickets related to Elasticsearch, providing prompt and efficient support for internal clients.
+Streamlined logging processes, server integrations into Elasticsearch, improving monitoring capabilities and supporting the organization’s operational reliability.
+2.	Container Orchestration
+Implemented Istio as a proof of concept in the sandbox Kubernetes cluster, showcasing its potential for service mesh, observability, and traffic management.
+3.	Secrets Management for Security
+Deployed Vault to enhance secure secrets management across systems.
+Laid the foundation for improving security workflows, with a plan to automate certificate renewals in the coming year.
+4.	API Management
+Supported IBM API Connect upgrades, ensuring the stability of internal API management systems and a smooth user experience for stakeholders.
+5.	Continuous Learning and Development
+Earned the Microsoft Azure Cybersecurity Architect certification -SC-300 during my paternity leave, enhancing my cloud security expertise.
+
+What Made These Accomplishments Stand Out:
+My problem-solving, particularly with Elasticsearch tickets and logging processes contributed directly to the department’s ability to maintain system reliability and meet client needs.
+Innovative initiatives, such as the Istio proof of concept, positioned the organization to leverage advanced DevOps technologies.
+By deploying Vault for secrets management, I laid the groundwork for automating certificate renewal, a critical step toward improving operational security and reducing manual overhead.
 ________________________________________
-Key Goals and Accomplishments
-•	Deployed and configured a Vault server to manage secrets and sensitive data across environments, reinforcing the organization’s security infrastructure as a PoC.
-•	Designed and deployed a proof of concept for Istio as a service mesh on our sandbox Kubernetes cluster. This enhanced traffic management, service-to-service security, and observability across microservices.
-•	Supported IBM API Connect upgrades, ensuring smooth integration and improved API lifecycle management for internal clients.
-4. Elasticsearch Logs Support:
-•	Elasticsearch support and integration efforts, responded to and resolved ServiceNow tickets related to Elasticsearch log ingestion, indexing, and querying.
-•	Worked closely with internal clients to integrate their server and application logs into our Elasticsearch environment, enhancing monitoring, troubleshooting, and data visibility.
-•	Streamlined log parsing, enriched data pipelines, and optimized dashboard configurations, resulting in faster issue resolution and better insight into distributed systems.
+Goals That Were Not Fully Achieved
+•	Istio Integration with Envoy:
+o	While Istio was successfully set up as a proof of concept, integrating Envoy with Istio was not accomplished due to limited collaboration with the networking team. In the upcoming year, I aim to work closely with the networking team to better understand the technical requirements and enable successful Envoy integration into our Kubernetes clusters.
+o	While the Vault server was deployed, automating certificate renewal remains a work in progress. This will be a primary focus for next year, as it directly supports operational security and efficiency.
 ________________________________________
-Focus Areas for the Coming Year
-In the upcoming year, I plan to continue building on the progress made, with specific focus on the following areas:
-•	Advanced Elasticsearch Management:
-o	Drive further improvements in log ingestion, alerting, and dashboard configurations to enhance system observability.
-o	Implement automated pipelines and AI-driven anomaly detection to proactively identify issues.
-•	Istio and Service Mesh Technologies (Envoy):
-o	Expand Istio integration across production environments to enhance service security, traffic routing, and observability.
-o	Deepen my knowledge of Envoy proxy configurations to optimize microservices communication.
-•	Container Security and Compliance (IronBank):
-o	Explore and integrate IronBank hardened containers to align with industry standards for secure deployments.
-o	Ensure our containerized environments meet stringent security and compliance requirements, reflecting the needs of a health insurance company.
-•	Cloud-Native Security and Observability:
-o	Strengthen expertise in container security tools (e.g., Falco, Aqua Security) and expand observability using Prometheus and Grafana.
-o	Focus on securing and scaling distributed applications across cloud environments.
+Impact on the Organization
+My work in the Elasticsearch support and ServiceNow ticket resolutions highlighted my ability to adapt and meet unanticipated challenges effectively, and the integrations that were done in Elasticsearch provide critical visibility into server operations and logging processes, significantly reducing troubleshooting time and enhancing system reliability.
+I continue to learn and assist with supporting API Connect upgrades tasking like upgrades to ensure uninterrupted API services.
+Introducing Istio as a proof of concept demonstrated my commitment to innovation, aligning with the organization’s broader transformation goals.
+By deploying Vault and earning an advanced Azure cybersecurity certification, I strengthened our infrastructure's security posture—a key priority for a our organization.
 ________________________________________
-Value to the Organization
-By continuing to develop these skills, I aim to:
-•	Enhance observability and log management across all internal systems, improving operational insight and faster incident response.
-•	Secure containerized environments and ensure compliance with healthcare industry standards.
-•	Optimize API management and service communication, driving better performance and scalability for critical business applications.
-•	Strengthen cloud security and infrastructure automation to support ongoing digital transformation initiatives.
-A
+Strategies for Resiliency in 2025
+Staying proactive by continuously learning industry best practices and certifications, ensuring my skills remain aligned with the organization’s evolving needs.
+Collaborating more closely with cross-functional teams to address technical challenges.
+________________________________________
+Focus for 2025
+Moving forward, I plan to continue driving value for the organization by:
+Deepening Expertise: Expanding my knowledge of Elasticsearch, Istio, Envoy, and IronBank to deliver advanced container orchestration, secure infrastructure, and improved logging capabilities.
+Scaling Innovation: Proposing scalable and secure implementations of tools like Vault, Kubernetes, and Elasticsearch to address evolving business needs.
+Supporting Transformation: Partnering with internal teams to align technical initiatives with the company’s transformation goals and mission.
+By focusing on these areas, I aim to enhance our middleware operations' reliability, scalability, and security, contributing meaningfully to our mission of delivering high-quality, innovative solutions.
+

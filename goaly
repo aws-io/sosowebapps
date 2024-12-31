@@ -1,0 +1,35 @@
+Overview and Key Achievements
+Over the past year, I have focused on strengthening my skills and impact as a DevOps engineer, with an emphasis on security, container orchestration, API management, and observability through Elasticsearch. A significant portion of my contributions involved supporting internal clients by integrating their logs into our Elasticsearch environment, ensuring enhanced visibility and operational efficiency.
+Despite a three-month paternity leave beginning in August, I successfully delivered critical projects and continued to build my expertise, notably earning the Microsoft Cybersecurity Architect (SC-100) certification during my leave to further expand my cloud security capabilities.
+________________________________________
+Key Goals and Accomplishments
+•	Deployed and configured a Vault server to manage secrets and sensitive data across environments, reinforcing the organization’s security infrastructure as a PoC.
+•	Designed and deployed a proof of concept for Istio as a service mesh on our sandbox Kubernetes cluster. This enhanced traffic management, service-to-service security, and observability across microservices.
+•	Supported IBM API Connect upgrades, ensuring smooth integration and improved API lifecycle management for internal clients.
+4. Elasticsearch Logs Support:
+•	Elasticsearch support and integration efforts, responded to and resolved ServiceNow tickets related to Elasticsearch log ingestion, indexing, and querying.
+•	Worked closely with internal clients to integrate their server and application logs into our Elasticsearch environment, enhancing monitoring, troubleshooting, and data visibility.
+•	Streamlined log parsing, enriched data pipelines, and optimized dashboard configurations, resulting in faster issue resolution and better insight into distributed systems.
+________________________________________
+Focus Areas for the Coming Year
+In the upcoming year, I plan to continue building on the progress made, with specific focus on the following areas:
+•	Advanced Elasticsearch Management:
+o	Drive further improvements in log ingestion, alerting, and dashboard configurations to enhance system observability.
+o	Implement automated pipelines and AI-driven anomaly detection to proactively identify issues.
+•	Istio and Service Mesh Technologies (Envoy):
+o	Expand Istio integration across production environments to enhance service security, traffic routing, and observability.
+o	Deepen my knowledge of Envoy proxy configurations to optimize microservices communication.
+•	Container Security and Compliance (IronBank):
+o	Explore and integrate IronBank hardened containers to align with industry standards for secure deployments.
+o	Ensure our containerized environments meet stringent security and compliance requirements, reflecting the needs of a health insurance company.
+•	Cloud-Native Security and Observability:
+o	Strengthen expertise in container security tools (e.g., Falco, Aqua Security) and expand observability using Prometheus and Grafana.
+o	Focus on securing and scaling distributed applications across cloud environments.
+________________________________________
+Value to the Organization
+By continuing to develop these skills, I aim to:
+•	Enhance observability and log management across all internal systems, improving operational insight and faster incident response.
+•	Secure containerized environments and ensure compliance with healthcare industry standards.
+•	Optimize API management and service communication, driving better performance and scalability for critical business applications.
+•	Strengthen cloud security and infrastructure automation to support ongoing digital transformation initiatives.
+A
